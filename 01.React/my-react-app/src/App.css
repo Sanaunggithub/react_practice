@@ -1,0 +1,15 @@
+body{
+  background-color: rgba(198, 198, 198, 0.992);
+  margin: 0;
+  font-size: 20px;
+  
+}
+body a{
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.217);
+  transition: background ease 0.5s;
+}
+
+body a:hover{
+  color: rgba(0, 0, 0, 0.5);;
+}

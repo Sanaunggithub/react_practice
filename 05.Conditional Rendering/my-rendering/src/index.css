@@ -1,0 +1,13 @@
+.welcome{
+  background-color: hwb(244 0% 4% / 0.619);
+  font-size: 2.5em;
+  color: white;
+  padding: 10px;
+}
+
+.login{
+  background-color: hwb(0 2% 7% / 0.619);
+  font-size: 2.5em;
+  color: white;
+  padding: 10px;
+}
